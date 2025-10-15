@@ -1,5 +1,5 @@
 ### Team Roles & Members
-- Project Manager: [Graham Parker](https://homework2-130659619927.us-central1.run.app/home)
+- Project Manager: [Graham Parker](https://graham-parker-130659619927.us-central1.run.app/home)
 - Artifacts Manager: [James Chen](/people/jchen.md)
 - Expert/Customer Liaison: [Sean Finkel](/people/sFinkel.md)
 - Security/Assurance Manager: [Mohsin Hossain](/people/mHossain.md)
