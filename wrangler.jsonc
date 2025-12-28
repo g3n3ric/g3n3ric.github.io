@@ -1,0 +1,5 @@
+{
+  "name": "g3n3ric-github-pages",
+  "compatibility_date": "2025-12-28", // 更新为你部署当天的日期
+  "pages_build_output_dir": "./dist"
+}
