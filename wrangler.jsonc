@@ -1,0 +1,8 @@
+{
+    "name": "g3n3ric-github-pages",
+    "compatibility_date": "2025-12-29", // 更新为你部署当天的日期
+    "pages_build_output_dir": "./dist", 
+    "assets": {
+        "not_found_handling": "404-page"
+    }
+}
