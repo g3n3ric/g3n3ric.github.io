@@ -1,7 +1,7 @@
 ---
 title: Nocturne op.9 No.2
 published: 2025-12-20
-tags: [Piano, Classic, Olivia]
+tags: [Piano, Classic, Olivia, English]
 category: Music
 draft: false 
 ---

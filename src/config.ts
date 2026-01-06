@@ -57,13 +57,9 @@ export const profileConfig: ProfileConfig = {
 	name: "g3n3ric",
 	bio: "This man is so lazy that he doesn't even have a bio.",
 	links: [
-		{
-			name: "Bilibili",
-			icon: "fa6-brands:bilibili", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://space.bilibili.com/439763318",
-		},
+		// Visit https://icones.js.org/ for icon codes
+		// You will need to install the corresponding icon set if it's not already included
+		// `pnpm add @iconify-json/<icon-set-name>`
 		{
 			name: "Zhihu",
 			icon: "fa6-brands:zhihu",
